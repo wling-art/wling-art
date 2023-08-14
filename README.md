@@ -1,3 +1,2 @@
-- 👋 Hi, I’m wlingzhenyu
-- 🌱 I am learning C++ and only know one python. /(ㄒoㄒ)/~~
-- 📫 So I'm nothing.
+
+![:name](https://count.getloli.com/get/@:wling)
