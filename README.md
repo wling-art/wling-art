@@ -3,6 +3,13 @@
 ---
 
 <p align="center">
+    <a href="https://github.com/wling-art?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/wling-art" target="_blank"><img alt="wling-art" src="https://badges.pufler.dev/visits/wling-art/wling-art?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/wling-art" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/wling-art/wling-art?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/wling-art/wling-art" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/wling-art/wling-art?label=profile%20updated&style=flat-square"></a>
+</p>
+
+<p align="center">
     <a href="https://github.com/wling-art" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@wling-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.zhihu.com/people/xiao-yu-88-81-82" target="_blank"><img alt="知乎" src="https://img.shields.io/badge/-知乎-00CCBB?style=flat-square&logo=zhihu&logoColor=white"></a>
     <a href="https://space.bilibili.com/413417479" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-Biliili-5391FE?style=flat-square&logo=bilibili&logoColor=white""></a>
@@ -14,12 +21,6 @@
     <a href="https://github.com/wling-art?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/wling-art?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/wling-art" target="_blank"><img alt="wling-art" src="https://badges.pufler.dev/visits/wling-art/wling-art?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/wling-art" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/wling-art/wling-art?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/wling-art/wling-art" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/wling-art/wling-art?label=profile%20updated&style=flat-square"></a>
-</p>
 
 ---
 <p align="center">
