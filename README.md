@@ -29,6 +29,7 @@
 
 <p align="center">
   <img alt="wling-art" src="https://github-readme-stats.vercel.app/api?username=wling-art"/></a>
+  <img alt="wling-art" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wling-art&hide=html"/></a>
 </p>
 
 ---
