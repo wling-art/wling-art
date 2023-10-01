@@ -13,7 +13,7 @@
     <a href="https://github.com/wling-art" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@wling-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.zhihu.com/people/xiao-yu-88-81-82" target="_blank"><img alt="知乎" src="https://img.shields.io/badge/-知乎-00CCBB?style=flat-square&logo=zhihu&logoColor=white"></a>
     <a href="https://space.bilibili.com/413417479" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-Biliili-5391FE?style=flat-square&logo=bilibili&logoColor=white""></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-QQ-EB1923?style=flat-square&logo=tencentqq&logoColor=white"></a>
+    <a href="https://qm.qq.com/q/nqioN4GduU" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-QQ-EB1923?style=flat-square&logo=tencentqq&logoColor=white"></a>
 </p>
 
 <p align="center">
