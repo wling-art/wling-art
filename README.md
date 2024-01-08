@@ -3,7 +3,8 @@
 
 ## Hi,I'm **Wling**
 
-- 🔬学习中
+- 🔬 学习 GO 之中
+- 🔨 主打python
 - 💬 Some 链接:[Blog](https://home.tblstudio.cn/)
 - 📦 我的联系方式QQ：1990248284
 - 🎮 打游戏 [CS2](https://store.steampowered.com/app/730/CounterStrike_2/)
