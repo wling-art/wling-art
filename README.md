@@ -5,7 +5,7 @@
 
 - 🔬 学习 GO 之中
 - 🔨 主打python
-- 💬 Some 链接:[Blog](https://home.tblstudio.cn/)
+- 💬 Some 链接:[Home](https://home.tblstudio.cn/) | [Blog](https://Blog.tblstudio.cn/)
 - 📦 我的联系方式QQ：1990248284
 - 🎮 打游戏 [CS2](https://store.steampowered.com/app/730/CounterStrike_2/)
 - 🛹 想找人陪我玩游戏🥲 [Steam](https://steamcommunity.com/profiles/76561199082915590/) | [Steam2(打GOGO用)](https://steamcommunity.com/id/wling_art)
