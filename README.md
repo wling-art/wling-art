@@ -1,6 +1,3 @@
-![header_](https://github.com/wling-art/wling-art/assets/90316914/540521e3-65c6-4638-9a41-40eee966d426)
-
-
 ## Hi,I'm **Wling**
 
 - 💬 Some 链接: [Blog](https://Blog.tblstudio.cn/) [248284]
