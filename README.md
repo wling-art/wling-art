@@ -1,6 +1,6 @@
 ## Hi,I'm **Wling**
 
-- 💬 Some 链接: [Blog](https://Blog.tblstudio.cn/) [248284]
+- 💬 Some 链接: [Blog](https://Blog.tblstudio.cn/)
 - 📦 我的联系方式QQ：
   - QQ: 1990248284
   - Email: wlingzhenyu@163.com
