@@ -23,8 +23,13 @@
 ![](https://img.shields.io/badge/Vscode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
 
 
-## 📈成绩
+## 📈 成绩
 ![Wling's GitHub stats](https://github-readme-stats.vercel.app/api?username=wling-art&show_icons=true&theme=radical)
+
+## 📻 热门语言
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wling-art&layout=compact&theme=radical)
+
 
 ## Welcome Visits to my homepage!
 
