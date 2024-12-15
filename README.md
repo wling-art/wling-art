@@ -3,7 +3,6 @@
 - 📦 我的联系方式QQ：
   - QQ: 1990248284
   - Email: wlingzhenyu@163.com
-  - WeChat: crash_wling
 
 - ✨ LIKE THIS
   
