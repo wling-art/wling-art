@@ -1,5 +1,5 @@
 ## Hi,I'm **Wling**
-- 💬 Some 链接: [Blog](https://ling.tblstudio.cn/)
+- 💬 Some 链接: [Blog](https://ling.crashvibe.cn/)
 - 📦 我的联系方式QQ：
   - QQ: 2675734952
   - Email: wlingzhenyu@163.com
