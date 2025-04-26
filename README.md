@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Debian-%23A81D33?style=flat-square&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Vscode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![](https://img.shields.io/badge/JAVA-FF7800?style=flat-square&logo=java&logoColor=fff)
 
 
 ## 📈 成绩
