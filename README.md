@@ -1,35 +1,67 @@
-## Hi,I'm **Wling**
-- 💬 Some 链接: [Blog](https://ling.crashvibe.cn/)
-- 📦 我的联系方式QQ：
-  - QQ: 2675734952
-  - Email: wlingzhenyu@163.com
+<h1 align="center">Wling</h1>
+<p align="center"><i>“一半代码，一半诗意。”</i></p>
+<p align="center"><i>ISFP · 全栈开发者 · 情绪流动体</i></p>
 
-- ✨ LIKE THIS
-  
-![](https://img.shields.io/badge/Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/UV-DE5FE9?style=flat-square&logo=uv&logoColor=fff)
-![](https://img.shields.io/badge/HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
-![](https://img.shields.io/badge/CSS-275ee4?style=flat-square&logo=css3&logoColor=fff)
-![](https://img.shields.io/badge/JavaScript-eeca03?style=flat-square&logo=javascript&logoColor=fff)
-![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=fff)
-![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![](https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=fff)
-![](https://img.shields.io/badge/Debian-%23A81D33?style=flat-square&logo=debian&logoColor=white)
-![](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Vscode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
-![](https://img.shields.io/badge/JAVA-FF7800?style=flat-square&logo=java&logoColor=fff)
+---
 
+### 关于我
 
-## 📈 成绩
-![Wling's GitHub stats](https://github-readme-stats.vercel.app/api?username=wling-art&show_icons=true&theme=radical)
+热衷于用代码实现感性的表达。喜欢构建、连接、探索，也习惯在夜深人静时重构情绪。  
+我相信工具是思想的延伸，项目是精神的容器。
 
-## 📻 热门语言
+- 博客：[ling.crashvibe.cn](https://ling.crashvibe.cn/)
+- QQ: `2675734952`
+- Email: [`wlingzhenyu@163.com`](mailto:wlingzhenyu@163.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wling-art&layout=compact&theme=radical)
+---
 
+### 技术栈偏好
 
-## Welcome Visits to my homepage!
+主要语言与框架：
 
-<div align="left"><img align="left" src="https://moe-counter.glitch.me/get/@wling?theme=rule34" ></div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3e74a2?style=flat-square&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" />
+</p>
+
+开发环境与系统：
+
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff" />
+</p>
+
+---
+
+### GitHub 状态
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wling-art&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
+### 使用语言统计
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wling-art&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+### 宣言 · 理性中的诗意
+
+> “我不把项目堆积成成就，而是用它们记录当下。”  
+> “每段代码都应具备意义，即使只存在于深夜与耳机之间。”  
+> “不是为了构建未来，而是构建我心中的世界。”
+
+---
+
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@wling?theme=rule34" />
+</div>
