@@ -46,14 +46,6 @@
 
 ---
 
-### 使用语言统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wling-art&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
----
-
 ### 宣言 · 理性中的诗意
 
 > “我不把项目堆积成成就，而是用它们记录当下。”  
