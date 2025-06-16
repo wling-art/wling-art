@@ -1,16 +1,20 @@
 <h1 align="center">Wling</h1>
 <p align="center"><i>“一半代码，一半诗意。”</i></p>
-<p align="center"><i>ISFP · 全栈开发者 · 情绪流动体</i></p>
+<p align="center"><i>ISFP / INFP 间态 · 全栈开发者 · 情绪流动体</i></p>
 
 ---
 
 ### 关于我
 
 热衷于用代码实现感性的表达。喜欢构建、连接、探索，也习惯在夜深人静时重构情绪。  
-我相信工具是思想的延伸，项目是精神的容器。
+我相信工具是思想的延伸，项目是精神的容器。  
+在技术与写作之间游移，在秩序与情绪之间穿行。
+
+大多数时候我依靠直觉去判断方向，也依赖感觉驱动创造。  
+有时节奏踉跄，但总希望每一次交付都带着一点真实的重量。
 
 - 博客：[ling.crashvibe.cn](https://ling.crashvibe.cn/)
-- QQ: `2675734952`
+- QQ: `2675734952`  
 - Email: [`wlingzhenyu@163.com`](mailto:wlingzhenyu@163.com)
 
 ---
@@ -33,6 +37,7 @@
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=fff" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=fff" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff" />
 </p>
 
@@ -50,7 +55,9 @@
 
 > “我不把项目堆积成成就，而是用它们记录当下。”  
 > “每段代码都应具备意义，即使只存在于深夜与耳机之间。”  
-> “不是为了构建未来，而是构建我心中的世界。”
+> “不是为了构建未来，而是构建我心中的世界。”  
+> “我不依赖模板，但也不抗拒逻辑；只是想做一些事情，它们像我。”  
+> “愿每一次重构，不仅修复代码，也修复我自己。”
 
 ---
 
