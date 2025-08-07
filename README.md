@@ -10,7 +10,7 @@
 
 - 博客：[ling.crashvibe.cn](https://ling.crashvibe.cn/)
 - QQ: `2675734952`  
-- Email: [`wlingzhenyu@163.com`](mailto:wlingzhenyu@163.com)
+- Email: [`mrlingxd@163.com`](mailto:wlingzhenyu@163.com)
 
 ---
 
