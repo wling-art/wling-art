@@ -1,6 +1,6 @@
 <h1 align="center">MrlingXD</h1>
-<p align="center"><i>“一半代码，一半诗意”</i></p>
-<p align="center"><i>ISFP / INFP 间态 · 全栈开发者</i></p>
+<p align="center"><i>“Hi, I'm wling~👋。
+一个很无聊的 < People / >”</i></p>
 
 ---
 
@@ -50,14 +50,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wling-art&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-
----
-
-### 宣言 · 理性中的诗意
-
-> “不把项目堆积成成就，而是用来记录当下。”  
-> “不是为了构建未来，而是构建心中世界。”  
-> “愿每一次重构，不仅修复代码，也是修复自己。”
 
 ---
 
