@@ -8,8 +8,9 @@
 
 偶尔摆烂，但每一次交付，我都希望对得起自己。
 
-- 博客：[ling.crashvibe.cn](https://ling.crashvibe.cn/)
-- QQ: `2675734952`  
+- 博客: [ling.crashvibe.cn](https://ling.crashvibe.cn/)
+- Telegram: [@MrlingXD](https://t.me/MrlingXD)
+- Discord: mrlingxd
 - Email: [`mrlingxd@163.com`](mailto:wlingzhenyu@163.com)
 
 ---
