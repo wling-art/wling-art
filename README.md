@@ -34,13 +34,12 @@
 </p>
 
 
-开发环境与系统：
+开发环境系统（按顺序）：
 
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=fff" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" />
 </p>
 
 ---
