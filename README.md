@@ -11,7 +11,7 @@
 - 博客: [ling.crashvibe.cn](https://ling.crashvibe.cn/)
 - Telegram: [@MrlingXD](https://t.me/MrlingXD)
 - Discord: mrlingxd
-- Email: [`mrlingxd@163.com`](mailto:wlingzhenyu@163.com)
+- Email: [`mrlingxd@163.com`](mailto:mrlingxd@163.com)
 
 ---
 
