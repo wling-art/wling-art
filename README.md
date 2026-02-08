@@ -47,11 +47,5 @@
 ### GitHub 状态
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wling-art&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@wling?theme=rule34" />
+  <img src="https://githubcard.com/wling-art.svg?d=hGrxOttz" alt="GitHub Stats" />
 </div>
