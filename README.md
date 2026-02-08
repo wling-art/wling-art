@@ -49,3 +49,9 @@
 <div align="center">
   <img src="https://githubcard.com/wling-art.svg?d=_gFZaxQ4" alt="GitHub Stats" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@wling?theme=gelbooru" />
+</div>
