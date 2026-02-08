@@ -47,5 +47,5 @@
 ### GitHub 状态
 
 <div align="center">
-  <img src="https://githubcard.com/wling-art.svg?d=hGrxOttz" alt="GitHub Stats" />
+  <img src="https://githubcard.com/wling-art.svg?d=_gFZaxQ4" alt="GitHub Stats" />
 </div>
