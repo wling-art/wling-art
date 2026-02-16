@@ -38,8 +38,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=fff" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=fff" />
 </p>
 
 ---
