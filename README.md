@@ -12,7 +12,7 @@
 - Telegram: [@MrlingXD](https://t.me/MrlingXD)
 - Signal: [MrlingXD.43](https://signal.me/#eu/unC2NlhDF9Mi4D9mX9X15961Q2TnyqJYahvA4WVvur7swvwF83FG-rtfm37WBhmy)
 - Discord: mrlingxd
-- Email: [`mrlingxd@163.com`](mailto:mrlingxd@163.com)
+- Email(推荐): [`mrlingxd@163.com`](mailto:mrlingxd@163.com)
 
 ---
 
