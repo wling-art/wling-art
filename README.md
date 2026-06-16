@@ -21,6 +21,11 @@
 主要语言与框架：
 
 <p>
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vinext-646CFF?style=flat-square&logo=vite&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Nitro-2B2D30?style=flat-square&logo=unjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3e74a2?style=flat-square&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=fff" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
